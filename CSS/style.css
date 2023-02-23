@@ -345,6 +345,13 @@ li, a {
 .testimonials {
     margin: 70px;
 }
+.testimonal_header {
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    white-space: nowrap;
+    text-align: center;
+}
 .testimonial_card {
     border-radius: 35px;
     background: transparent;
@@ -571,6 +578,9 @@ li, a {
     }      
 .testimonials {
     margin: 20px;
+    }
+    .testimonal_header {
+        font-size: 24px;
     }
 }
 
